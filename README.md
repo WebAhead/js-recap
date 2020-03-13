@@ -48,10 +48,10 @@ Here are some challenges for you (you will need a [CodeWars](https://www.codewar
 
 5. [Longest palindrome](https://www.codewars.com/kata/5a0178f66f793bc5b0001728)
     
-    <details>
-    <summary>Hints</summary>
-    <ul>
-    <li> think about how you can count the instances of every character in a string using a list of characters "abcdefghijklmnopqrstuvwxyz0123456789"</li>
-    </ul>
-    </details>
-  
+  <details>
+  <summary>Hints</summary>
+  <ul>
+  <li> think about how you can count the instances of every character in a string using a list of characters "abcdefghijklmnopqrstuvwxyz0123456789"</li>
+  </ul>
+  </details>
+
