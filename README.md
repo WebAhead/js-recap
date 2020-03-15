@@ -34,6 +34,7 @@ Here are some challenges for you (you will need a [CodeWars](https://www.codewar
   <li> Read about the <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort" traget="_blank">array.sort()</a> method</li>
   <li>Consider the best way to sort such an array</li>
   <li>What happens when you have both upper and lower case in the same array?</li>
+  <li>The test function doesn't work on this challenge. Make sure to hit 'Submit' instead.</li>
   </ul>
   </details>
 
