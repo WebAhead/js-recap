@@ -21,8 +21,8 @@ Here are some challenges for you (you will need a [CodeWars](https://www.codewar
   <details>
   <summary>Hints</summary>
   <ul>
-  <li> Think about the range you need to build</li>
-  <li>Range = loop</li>
+  <li> Think about the loop you need to build</li>
+  <li>(a loop in javascript is called a 'range' in languages such as python</li>
   </ul>
   </details>
 
